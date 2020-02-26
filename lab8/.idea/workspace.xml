@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c4eb51d-9492-4d43-be89-f1581d367d47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lab8.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,5 +55,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="932" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582036543988" />
+    <state x="418" y="33" key="new project wizard" timestamp="1582093425708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582093425708" />
   </component>
 </project>
